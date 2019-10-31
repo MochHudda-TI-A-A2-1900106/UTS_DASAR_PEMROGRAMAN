@@ -7,6 +7,6 @@ int main()
     cout<<"Semangat selalu."<<endl;
     //saff
     //asasdd
-    
+    //asffd
     return 0;
 }
